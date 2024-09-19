@@ -38,7 +38,7 @@ npm run dev
 ```
 Open http://localhost:3000 in your browser to see the project.
 
-##Prismic Setup
+## Prismic Setup
 To manage content with Prismic, follow these steps:
 
 -Create a Prismic account at Prismic.io.
@@ -48,10 +48,10 @@ To manage content with Prismic, follow these steps:
 -Customization
 -Feel free to customize the design and functionality to match your style and preferences. You can easily adjust the styling by editing the Tailwind configuration file, or update content through Prismic.
 
-##Image Assets
+## Image Assets
 Image assets for the portfolio (such as project screenshots, background images, etc.) can be found in the assets/ folder. Replace these with your own images to personalize the portfolio.
 
-##Components
+## Components
 The repository includes reusable React components such as:
 
 -Navbar
@@ -66,5 +66,5 @@ These components are modular and can be easily adapted or expanded based on your
 - **Three.js**: A 3D JavaScript library for creating interactive 3D graphics.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
 - **GSAP**: A JavaScript library for high-performance animations.
-##Contributing
+## Contributing
 If you'd like to contribute to the project, feel free to open a pull request or raise an issue on GitHub.
