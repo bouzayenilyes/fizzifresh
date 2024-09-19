@@ -1,4 +1,4 @@
-# Creative Personal Portfolio with Next.js, Prismic, Three.js, Tailwind, and GSAP
+# Fizzi 3D Website Product - Landing Page with Next.js, Prismic, Three.js, Tailwind, and GSAP
 
 This repository contains the source code for building a creative personal portfolio. It showcases how to integrate modern web development technologies like **Next.js**, **Prismic**, **Three.js**, **Tailwind CSS**, and **GSAP** to create a visually dynamic and interactive personal website.
 
