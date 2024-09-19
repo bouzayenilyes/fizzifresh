@@ -41,12 +41,12 @@ Open http://localhost:3000 in your browser to see the project.
 ## Prismic Setup
 To manage content with Prismic, follow these steps:
 
--Create a Prismic account at Prismic.io.
--Set up a new repository for your portfolio.
--Define the content models (e.g., projects, about section) in the Prismic dashboard.
--Update the API endpoint in the project’s prismic-config.js with your Prismic repository’s URL.
--Customization
--Feel free to customize the design and functionality to match your style and preferences. You can easily adjust the styling by editing the Tailwind configuration file, or update content through Prismic.
+- **Create a Prismic account at Prismic.io.**
+- **Set up a new repository for your portfolio.**
+- **Define the content models (e.g., projects, about section) in the Prismic dashboard.**
+- **Update the API endpoint in the project’s prismic-config.js with your Prismic repository’s URL.**
+- **Customization**
+- **Feel free to customize the design and functionality to match your style and preferences. You can easily adjust the styling by editing the Tailwind configuration file, or update content through Prismic.**
 
 ## Image Assets
 Image assets for the portfolio (such as project screenshots, background images, etc.) can be found in the assets/ folder. Replace these with your own images to personalize the portfolio.
