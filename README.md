@@ -54,10 +54,10 @@ Image assets for the portfolio (such as project screenshots, background images, 
 ## Components
 The repository includes reusable React components such as:
 
--Navbar
--Project Cards
--Hero Section
--Footer
+- **Navbar**
+- **Project Cards**
+- **Hero Section**
+- **Footer**
 These components are modular and can be easily adapted or expanded based on your specific needs.
 
 ##Technologies Used
