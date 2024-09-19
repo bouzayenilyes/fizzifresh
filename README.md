@@ -26,4 +26,9 @@ To get started, clone this repository to your local machine:
 ```bash
 git clone https://github.com/bouzayenilyes/fizzifresh.git
 
+Install dependencies:
+
+bash
+Copy code
+npm install
 
