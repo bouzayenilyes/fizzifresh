@@ -60,7 +60,7 @@ The repository includes reusable React components such as:
 - **Footer**
 These components are modular and can be easily adapted or expanded based on your specific needs.
 
-##Technologies Used
+## Technologies Used
 - **Next**.js: A React framework for server-side rendering and static site generation.
 - **Prismic**: A headless CMS for managing content.
 - **Three.js**: A 3D JavaScript library for creating interactive 3D graphics.
